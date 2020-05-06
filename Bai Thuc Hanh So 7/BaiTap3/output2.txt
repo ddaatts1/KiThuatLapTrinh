@@ -1,5 +1,0 @@
-n ban dau: 10
-cac vi tri da xoa: 2 5 7 
-n sau khi xoa cac phan tu am: 7
-mang sau khi xoa:
-1.5 8.35 4.11 5.88 32.11 11.55 6.7 

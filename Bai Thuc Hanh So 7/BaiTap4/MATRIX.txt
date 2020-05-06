@@ -1,6 +1,0 @@
-so hang: 3
-so cot : 4
-hien thi ma tran:
-43	54	23	232	
-3	4345	534	34	
-3	3	4	5	
